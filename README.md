@@ -20,6 +20,6 @@ To improve my programming skills and build useful projects.
 
 📫 Connect
 
-- GitHub: "@your-username" (https://github.com/your-username)
+- GitHub: "tharunkumarc" 
 
 ⭐ Learning today, building tomorrow.
